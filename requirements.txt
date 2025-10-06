@@ -1,0 +1,21 @@
+# Core
+jupyterlab
+ipykernel
+
+# Data handling
+pandas
+numpy
+
+# Web scraping / requests (if you pull data from websites)
+requests
+beautifulsoup4
+
+# LLM API client (if you’re using OpenAI or similar)
+openai
+
+# (Optional) NLP / text utilities
+tiktoken
+nltk
+
+# Visualization (if you make charts in the notebook)
+matplotlib
